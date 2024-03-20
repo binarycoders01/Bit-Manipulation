@@ -133,9 +133,9 @@ Unsigned integers are not directly supported in Java, but you can use larger sig
 
 ### Left Shift (`<<`)
 
-```java
 int num = 5; // Binary: 00000000000000000000000000000101
 int result = num << 2; // Binary: 00000000000000000000000000010100 (Decimal: 20) 
+ 
 
 
 ### Practice Problems on Bit Manipulation
